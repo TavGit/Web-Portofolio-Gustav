@@ -153,7 +153,7 @@ const Header: React.FC = () => {
                   </button>
                   <button
                     onClick={toggleLanguage}
-                    className="px-3 py-1 rounded-full border border-gray-300 dark:border-gray-700 text-sm font-medium text-gray-700 dark:text-gray-300"
+                    className="px-4 py-2 text-base rounded-full border border-gray-300 dark:border-gray-700 font-medium text-gray-700 dark:text-gray-300"
                   >
                     {language === 'id' ? 'EN' : 'ID'}
                   </button>
