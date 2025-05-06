@@ -1,0 +1,90 @@
+{
+  "header": {
+    "home": "Beranda",
+    "about": "Tentang Saya",
+    "projects": "Proyek",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "tagline": "Junior Mobile Developer | Penggemar Flutter",
+    "cta": "Lihat Proyek Saya",
+    "downloadCV": "Unduh CV",
+    "scrollDown": "Gulir ke Bawah"
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "intro": "Halo! 👋 Saya adalah Muhammad Gustav Ibrahim, seorang Junior Mobile Developer yang fokus pada pengembangan aplikasi menggunakan Dart dan Flutter. Saya suka membangun aplikasi yang bermanfaat dan user-friendly, serta selalu tertarik mempelajari teknologi baru di dunia pemrograman.",
+    "info": "Saya adalah lulusan SMK Karya Guna 2 Bekasi, dengan keahlian di bidang Teknik Komputer dan Jaringan. Saya memiliki minat yang besar dalam pengembangan aplikasi seluler, khususnya dengan Flutter, dan saat ini saya fokus untuk mengembangkan keahlian saya dalam Dart serta pengembangan aplikasi seluler Perjalanan pemrograman saya tidak terbatas hanya pada Flutter; saya telah mempelajari berbagai bahasa pemrograman, seperti HTML, CSS, JavaScript, Python, Java, PHP, dan Go. Pengalaman ini telah memberikan saya wawasan yang luas mengenai berbagai paradigma pemrograman dan pendekatan yang berbeda.Selain itu, saya juga telah mengeksplorasi DevOps dan Jaringan sebagai bagian dari perjalanan belajar saya, meskipun fokus utama saya tetap pada pengembangan aplikasi seluler. Saya juga mahir menggunakan sistem operasi berbasis Linux (Ubuntu), yang menjadi platform utama saya dalam pengembangan aplikasi.",
+    "skills": "Keahlian",
+    "experience": "Pengalaman",
+    "certificate": "Sertifikat",
+    "subtitle": "Keahlian saya"
+  },
+  "skills": {
+    "jaringan": "Mendasar Jaringan",
+    "ubuntu": "Sistem Operasi Linux Ubuntu"
+
+  },
+  "projects": {
+    "title": "Proyek",
+    "subtitle": ".Berikut ini adalah beberapa Proyek yang saya buat, selama saya menjelajahi dunia programming, mulai dari Proyek Aplikasi Mobile sampai Proyek Website yg sudah terpublikasikan.",
+    "viewProject": "Lihat Proyek",
+    "download": "Unduh",
+    "sourceCode": "Kode Sumber"
+  },
+  "deskripsi-academy": {
+    "deskripsi": "Dart & Flutter Academy Apps adalah aplikasi pembelajaran interaktif berbasis Flutter yang dirancang untuk membantu pengguna memahami bahasa pemrograman Dart dan framework Flutter secara bertahap dan menyenangkan."
+  },
+  "deskripsi-ramadan": {
+    "deskripsi": "Ramadan Muslim Apps adalah aplikasi pendamping ibadah selama bulan Ramadan. Menyediakan fitur jadwal sholat, pengingat imsak dan berbuka, doa-doa harian. Dirancang dengan antarmuka yang simpel dan elegan untuk membantu umat Muslim menjalani Ramadan dengan lebih khusyuk dan teratur."
+  },
+  "deskripsi-web1": {
+    "deskripsi": "Saya berhasil membuat sebuah project website perusahaan PT NMI, dan ini pertama kali nya saya membuat project website perusahaan"
+  },
+  "deskripsi-web2": {
+    "deskripsi": "Saya membuat sebuah project website berbasis music, yang dimana ini terinspirasi dari spotify, cuman saya buat versi saya sendiri"
+  },
+  "deskripsi-web3": {
+    "deskripsi": "Saya membuat sebuah project website coder kids rt 01, yang dimana saya mengajari dan mengenalkan kepada anak-anak kecil apa itu coding dan dunia programming, pada saat di bulan suci ramadhan tahun 2024, bukan hanya kegiatan coding saja, tetapi ada beberapa kegitan positif lain nya. "
+  },
+  "deskripsi-web4": {
+    "deskripsi": "Saya membuat sebuah website portfolio sederhana, dan ini adalah pertama kali nya saya membuat sebuah website."
+  },
+  "deskripsi-web5": {
+    "deskripsi": "Saya membuat sebuah website linktree sederhana."
+  },
+  "deskripsi-web6": {
+    "deskripsi": "Blog ini Berisi Tentang Komputer, jenis jenis komputer,komputer generasi pertama sampai generasi sekarang."
+  },
+  "deskripsi-web7": {
+    "deskripsi": "Blog ini Berisi Tentang Dunia Jairngan atau Networking, yang membahas jaringan jaringan dasar, seperti DHCP dan dll."
+  },
+  "deskripsi-web8": {
+    "deskripsi": "Blog ini Berisi Tentang Jenis jenis sistem Operasi, dan fungsi sisteem Operasi dan dll."
+  },
+  "deskripsi-web9": {
+    "deskripsi": "Blog ini Berisi Tentang membahas cara beli saldo paypal dan apa hukum nya menjual beli saldo tanpa izin dan dll."
+  },
+  
+  "contact": {
+    "title": "Kontak",
+    "subtitle": "Hubungi Saya",
+    "name": "Nama",
+    "email": "Email",
+    "message": "Pesan",
+    "send": "Kirim Pesan",
+    "follow": "Ikuti saya di",
+    "connect": "Mari terhubung"
+  },
+  "theme": {
+    "light": "Mode Terang",
+    "dark": "Mode Gelap"
+  },
+  "language": {
+    "en": "Bahasa Inggris",
+    "id": "Bahasa Indonesia"
+  },
+  "footer": {
+    "rights": "Hak Cipta Dilindungi."
+  }
+}

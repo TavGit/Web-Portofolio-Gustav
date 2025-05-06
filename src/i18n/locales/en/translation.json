@@ -1,0 +1,88 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Me",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Junior Mobile Developer | Flutter Enthusiast",
+    "cta": "View My Projects",
+    "downloadCV": "Download CV",
+    "scrollDown": "Scroll Down"
+  },
+  "about": {
+    "title": "About Me",
+    "intro": "Hi! 👋 I am Muhammad Gustav Ibrahim, a Junior Mobile Developer who focuses on developing applications using Dart and Flutter. I love building useful and user-friendly applications, and am always interested in learning new technologies in the programming world.",
+    "info": "I am a graduate of SMK Karya Guna 2 Bekasi, specializing in Computer and Network Engineering. I have a strong passion for mobile development, particularly with Flutter, and I am currently focused on advancing my expertise in Dart and mobile application development.My programming journey extends beyond Flutter; I have gained experience with multiple programming languages, including HTML, CSS, JavaScript, Python, Java, PHP, and Go. This diverse background has provided me with a broad understanding of various programming paradigms and approaches. Additionally, I have explored DevOps and Networking as part of my continuous learning, though my primary focus remains on mobile app development. I am also proficient in working with Linux-based operating systems (Ubuntu), which serve as my primary platform for development and provide an efficient environment for my work.",
+    "skills": "Skills",
+    "experience": "Experience",
+    "certificate": "Certificate",
+    "subtitle": "My expertise"
+  },
+  "skills": {
+    "jaringan": "Network Fundamental",
+    "ubuntu": "Linux Ubuntu Operating System"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "The following are some projects that I have created, while exploring the world of programming, from Mobile Application Projects to Website Projects which has been published.",
+    "viewProject": "View Project",
+    "download": "Download",
+    "sourceCode": "Source Code"
+  },
+  "deskripsi-academy": {
+    "deskripsi": "Dart & Flutter Academy Apps is an interactive Flutter-based learning app designed to help users understand the Dart programming language and Flutter framework in a step-by-step and fun way."
+  },
+  "deskripsi-ramadan": {
+    "deskripsi": "Ramadan Muslim Apps is a companion app for worship during the holy month of Ramadan. It provides prayer times, reminders for suhoor and iftar, daily duas. Designed with a clean and elegant interface to help Muslims observe Ramadan with more focus and ease."
+  },
+  "deskripsi-web1": {
+    "deskripsi": "I succeeded in creating a company website project for PT NMI, and this is the first time I have created a company website project."
+  },
+  "deskripsi-web2": {
+    "deskripsi": "I created a music-based website project, which was inspired by Spotify, only I made my own version."
+  },
+  "deskripsi-web3": {
+    "deskripsi": "I created a project website coder kids rt 01, where I teach and introduce to young children what coding and the world of programming are, during the holy month of Ramadan in 2024, not only coding activities, but there are several other positive activities."
+  },
+  "deskripsi-web4": {
+    "deskripsi": "I created a simple portfolio website, and this is my first time creating a website."
+  },
+  "deskripsi-web5": {
+    "deskripsi": "I created a simple linktree website."
+  },
+  "deskripsi-web6": {
+    "deskripsi": "This blog contains information about computers, types of computers, from the first generation to the current generation."
+  },
+  "deskripsi-web7": {
+    "deskripsi": "This blog is about the world of networks or networking, which discusses basic networks, such as DHCP and etc."
+  },
+  "deskripsi-web8": {
+    "deskripsi": "This blog contains information about types of operating systems, and the functions of operating systems, etc."
+  },
+  "deskripsi-web9": {
+    "deskripsi": "This blog contains a discussion about how to buy a PayPal balance and what the law is on buying and selling balances without permission, etc."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in Touch",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "follow": "Follow me on",
+    "connect": "Let's connect"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "language": {
+    "en": "English",
+    "id": "Indonesian"
+  },
+  "footer": {
+    "rights": "All Rights Reserved."
+  }
+}
