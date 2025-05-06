@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
       <div className="absolute bottom-10 left-10 w-32 h-32 bg-blue-200 dark:bg-blue-800/30 rounded-full blur-2xl opacity-60" />
       <div className="absolute top-20 left-1/4 w-24 h-24 bg-purple-200 dark:bg-purple-900/20 rounded-full blur-xl opacity-50" />
 
-      <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
+      <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
         <div className="flex flex-col md:flex-row items-center gap-8 md:gap-12">
           {/* Content */}
           <motion.div
